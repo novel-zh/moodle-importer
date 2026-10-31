@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.clasp.json
+.clasprc.json
+node_modules/
+vendor/
+work/
+exports/
+*.source.json
+*.report.txt
+*.zip
+.DS_Store
+Thumbs.db
