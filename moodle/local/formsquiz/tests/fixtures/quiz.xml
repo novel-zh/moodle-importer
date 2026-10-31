@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="category"><category><text>$course$/top/Google Forms/Pilot [fixture_form_id]</text></category></question>
+<question type="description"><name><text>Part 1</text></name><questiontext format="html"><text>&lt;p&gt;Instruction&lt;/p&gt;</text></questiontext><defaultgrade>0</defaultgrade></question>
+<question type="multichoice"><name><text>Question with picture</text></name>
+<questiontext format="html"><text>&lt;p&gt;Choose A&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/image.png"&gt;</text><file name="image.png" path="/" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=</file></questiontext>
+<defaultgrade>2</defaultgrade><penalty>0</penalty><single>true</single><shuffleanswers>true</shuffleanswers><answernumbering>abc</answernumbering>
+<answer fraction="100" format="html"><text>&lt;p&gt;A&lt;/p&gt;</text></answer>
+<answer fraction="0" format="html"><text>&lt;p&gt;B&lt;/p&gt;</text></answer>
+</question>
+</quiz>
